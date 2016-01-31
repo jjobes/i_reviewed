@@ -1,28 +1,12 @@
-== README
+== IReviewed
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created for the course {Rails with Active Record and Action Pack}[https://www.coursera.org/learn/rails-with-active-record/].
 
-Things you may want to cover:
+This is a simple Rails app with authentication and authorization that enables you to review books.
 
-* Ruby version
+A live version can be viewed on Heroku:
 
-* System dependencies
+https://ireview-books-jjobes.herokuapp.com/
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+login: Jim
+password: 123abc
