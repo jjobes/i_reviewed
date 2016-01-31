@@ -6,7 +6,8 @@ This is a simple Rails app with authentication and authorization that enables yo
 
 A live version can be viewed on Heroku:
 
-https://ireview-books-jjobes.herokuapp.com/
+https://ireview-books-jjobes.herokuapp.com
 
 login: Jim
+
 password: 123abc
